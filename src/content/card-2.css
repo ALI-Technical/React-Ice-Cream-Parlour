@@ -1,0 +1,31 @@
+.imgBox{
+    background-image: url(../Images/Ice-cream\ 2.jpg);
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    background-clip: content-box;
+    height: 100vh;
+    position: relative;
+}
+.imgBox h2{
+    position: absolute;
+    top: 30%;
+    text-align: center;
+    font-size: 5em;
+    color: purple;
+    text-transform: capitalize;
+}
+.imgBox-2{
+    background-image: url(../Images/Ice-cream\ 3.jpg);
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    background-clip: content-box;
+    height: 100vh;
+}
+.imgBox-2 h2{
+    text-align: center;
+    font-size: 5em;
+    color: purple;
+    text-transform: capitalize;
+}
